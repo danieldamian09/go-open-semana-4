@@ -218,6 +218,10 @@ body {
 		line-height: 2rem;
 	}
 
+	.validar-tel {
+		width: 90%;
+	}
+
 	.importante {
 		margin-top: 98px;
 		width: 90%;
