@@ -218,6 +218,13 @@ body {
 		line-height: 2rem;
 	}
 
+	.instructivo button{
+		width: 195px;
+		font-size: 0.7rem;
+		padding: 20px 15px;
+
+	}
+
 	.validar-tel {
 		width: 90%;
 	}
