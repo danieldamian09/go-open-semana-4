@@ -44,7 +44,7 @@ body {
 	font-family: Poppins, sans-serif !important;
 }
 
-.header{
+.header {
 	width: 100%;
 	height: 250px;
 	background-image: url('../img/fondo.png');
@@ -57,7 +57,7 @@ body {
 	text-align: center;
 }
 
-.header .caja{
+.header .caja {
 	width: 600px;
 	height: 150px;
 	background-color: #fff;
@@ -69,7 +69,7 @@ body {
 	text-align: center;
 }
 
-.caja .semana-4-titulo{
+.caja .semana-4-titulo {
 	width: 400px;
 	font-size: 34px;
 	color: #724CF1;
@@ -184,33 +184,34 @@ body {
 	width: 100%;
 }
 
-@media (min-width: 280px) and (max-width: 576px){
-	.fondo-semana-4{
+@media (min-width: 280px) and (max-width: 576px) {
+	.fondo-semana-4 {
 		width: 100%;
 	}
 
-	.header .caja{
-		width: 90%;;
+	.header .caja {
+		width: 90%;
+		;
 	}
 
 	.caja .semana-4-titulo {
 		width: 80%;
 		font-size: 1.7rem;
-		
+
 	}
 
-	.mesaje-semana-4{
+	.mesaje-semana-4 {
 		width: 90%;
 	}
 
-	.texto-semana-4{
+	.texto-semana-4 {
 		font-size: 1.3rem;
 		line-height: 1.5rem;
 	}
 
 	.recuperar {
 		width: 90%;
-		
+
 	}
 
 	.recupera-mensaje {
@@ -218,7 +219,7 @@ body {
 		line-height: 2rem;
 	}
 
-	.instructivo button{
+	.instructivo button {
 		width: 195px;
 		font-size: 0.7rem;
 		padding: 20px 15px;
@@ -243,7 +244,7 @@ body {
 
 	.dudas-semana-4 {
 		width: 90%;
-		
+
 	}
 
 	.dudas-mensaje {
@@ -253,7 +254,7 @@ body {
 
 	.legales-semana-4 {
 		width: 80%;
-		
+
 	}
 
 }
